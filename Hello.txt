@@ -7,5 +7,5 @@ Hello Git!Hello World!
 Hello Git!Hello World!
 Hello Git!Hello World!
 Hello Git!Hello World!
-Hello Git!Hello World!
+Hello Git!Hello World! master test
 New Line! Hello World!
