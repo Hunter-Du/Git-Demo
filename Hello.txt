@@ -8,4 +8,5 @@ Hello Git!Hello World!
 Hello Git!Hello World!
 Hello Git!Hello World!
 Hello Git!Hello World! master test
+Hello Git!Hello World! hot-fix test
 New Line! Hello World!
